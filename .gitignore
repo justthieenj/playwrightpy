@@ -1,0 +1,7 @@
+# report
+.pytest_cache
+report
+
+# virtualenv pycache
+playwrightenv
+__pycache__
