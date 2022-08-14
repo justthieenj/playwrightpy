@@ -1,7 +1,9 @@
 # report
-.pytest_cache
+.playwright-screenshots
 report
 
 # virtualenv pycache
+.pytest_cache
+.idea
 playwrightenv
 __pycache__
