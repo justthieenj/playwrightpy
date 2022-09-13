@@ -9,6 +9,12 @@
 python -m venv playwrightenv
 ```
 
+- Activate virtual environment
+
+```BASH
+source playwrightenv/Scripts/activate
+```
+
 - Install python packages (_including playwright_)
 
 ```BASH
